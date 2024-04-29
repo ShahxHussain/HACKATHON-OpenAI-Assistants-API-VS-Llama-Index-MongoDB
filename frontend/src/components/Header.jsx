@@ -7,7 +7,7 @@ export default function Header() {
   <div className="header">&nbsp;  RAGfier
 
 
-  </div>;
+  </div>
   
   </div>
 ) 
