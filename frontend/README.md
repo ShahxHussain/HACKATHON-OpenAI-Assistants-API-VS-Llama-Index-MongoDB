@@ -1,1 +1,0 @@
-# HACKATHON-OpenAI-Assistants-API-VS-Llama-Index-MongoDB
